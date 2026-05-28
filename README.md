@@ -172,16 +172,6 @@ Integrante da equipe técnica responsável pela criação e suporte da nova infr
 
 ## 🚀 Projetos em Destaque
 
-<div align="center">
-
-[![Buscador de Arquivos Avançado](https://github-readme-stats.vercel.app/api/pin/?username=ralfdiass&repo=buscador-arquivos-avancado&theme=tokyonight&hide_border=false)](https://github.com/ralfdiass/buscador-arquivos-avancado)
-[![Azure Cost Monitor](https://github-readme-stats.vercel.app/api/pin/?username=ralfdiass&repo=azure-cost-monitor&theme=tokyonight&hide_border=false)](https://github.com/ralfdiass/azure-cost-monitor)
-[![IA Script Generator](https://github-readme-stats.vercel.app/api/pin/?username=ralfdiass&repo=ia-script-generator&theme=tokyonight&hide_border=false)](https://github.com/ralfdiass/ia-script-generator)
-
-</div>
-
-### 📌 Detalhes
-
 | Projeto | Status | Descrição |
 |---------|--------|-----------|
 | 🔍 **[Buscador de Arquivos Avançado](https://github.com/ralfdiass/buscador-arquivos-avancado)** | ✅ Concluído | Ferramenta de busca de palavras-chave em múltiplos formatos com GUI e processamento paralelo |
@@ -198,30 +188,7 @@ Integrante da equipe técnica responsável pela criação e suporte da nova infr
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ralfdiass&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ralfdiass&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ralfdiass&theme=tokyonight&hide_border=false" />
-
-</div>
-
-### 🏆 Conquistas
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ralfdiass&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
-
-</div>
-
-### 📈 Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ralfdiass&theme=tokyo-night&hide_border=true&area=true" />
+![Métricas do GitHub](./github-metrics.svg)
 
 </div>
 
