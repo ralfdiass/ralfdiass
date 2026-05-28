@@ -1,0 +1,46 @@
+name: GitHub Metrics
+
+on:
+  # Atualiza diariamente às 6h (horário de Brasília)
+  schedule:
+    - cron: "0 9 * * *"
+  # Permite rodar manualmente pelo painel Actions
+  workflow_dispatch:
+  # Roda também a cada push na branch principal
+  push:
+    branches: ["main"]
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Gerar métricas do perfil
+        uses: lowlighter/metrics@latest
+        with:
+          # Token de acesso (configurado como secret — ver tutorial)
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: ralfdiass
+          filename: github-metrics.svg
+          template: classic
+          config_timezone: America/Bahia
+
+          # 🗃️ Conteúdo base (cabeçalho, atividade, comunidade, repositórios)
+          base: header, activity, community, repositories, metadata
+
+          # 🈷️ Linguagens mais usadas
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_details: percentage
+          plugin_languages_sections: most-used
+
+          # 📅 Calendário de contribuições isométrico (3D)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # 🏆 Conquistas / medalhas
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_achievements_secrets: yes
+          plugin_achievements_display: detailed
