@@ -23,7 +23,6 @@
 ## 📋 Sumário
 
 - [Sobre Mim](#-sobre-mim)
-- [Trajetória Profissional](#-trajetória-profissional)
 - [Certificações](#-certificações)
 - [Stack Tecnológica](#%EF%B8%8F-stack-tecnológica)
 - [Áreas de Atuação](#-áreas-de-atuação)
@@ -43,31 +42,6 @@ Profissional de TI com mais de **18 anos de carreira**, atualmente atuando como 
 🎓 Superior em **Redes de Computadores** pela Universidade Católica de Salvador  
 🎯 Foco atual em **Cloud, IA, Infraestrutura e Segurança**  
 🚀 Construindo projetos abertos para a comunidade
-
----
-
-<!-- ========================================
-     Seção 4 — Trajetória Profissional
-     ======================================== -->
-
-## 💼 Trajetória Profissional
-
-### 🔹 Motorola Solutions · Analista de Campo
-**📅 Out/2024 — Atual · Salvador, BA**
-
-Atuação com sistemas de rádio Trunked, manutenção preventiva e corretiva, instalação e configuração de rádios móveis e portáteis, análise de falhas e suporte direto ao cliente. Elaboração de relatórios técnicos e ordens de serviço.
-
-### 🔹 Stefanini Brasil · Team Lead Manager + Senior Support Analyst
-**📅 Jan/2023 — Out/2024 · Salvador, BA**
-
-Coordenação de equipe técnica e gestão de incidentes alinhada ao framework **ITIL**, com governança de TI baseada em ServiceNow. **Contribuição direta na redução de até 95% nos erros de execução** e no aumento do controle de incidentes. Atendimento on-site na Refinaria Acelen.
-
-### 🔹 Avanade · Analyst Field Service Sênior
-**📅 Mai/2022 — Ago/2023 · Candeias, BA**
-
-Integrante da equipe técnica responsável pela criação e suporte da nova infraestrutura de TI no processo de **handover da privatização da Refinaria Landulpho Alves** — primeira refinaria estatal da Petrobras a ser privatizada. Suporte avançado em laboratórios de análise de gás e petróleo.
-
-> 💡 Veja [meu LinkedIn](https://www.linkedin.com/in/ralfdias/) para a trajetória completa (8 empresas, desde 2008).
 
 ---
 
