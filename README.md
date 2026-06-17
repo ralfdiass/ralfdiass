@@ -10,8 +10,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ralfdias/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ralf_dias@hotmail.com)
-[![Location](https://img.shields.io/badge/Salvador,_BA-Brazil-bb9af7?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Salvador,+Bahia)
-
 </div>
 
 ---
