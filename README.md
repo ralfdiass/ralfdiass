@@ -37,9 +37,8 @@
 
 ## 👋 Sobre Mim
 
-Profissional de TI com mais de **18 anos de carreira**, atualmente atuando como **Analista de Campo na Motorola Solutions** em Salvador-BA. Especializado em infraestrutura, suporte técnico de alto nível, segurança e cloud, com forte interesse em automação inteligente e integração de ferramentas de IA ao fluxo de trabalho.
-
-🎓 Superior em **Redes de Computadores** pela Universidade Católica de Salvador  
+Especializado em infraestrutura, suporte técnico de alto nível, segurança e cloud, com forte interesse em automação inteligente e integração de ferramentas de IA ao fluxo de trabalho.
+  
 🎯 Foco atual em **Cloud, IA, Infraestrutura e Segurança**  
 🚀 Construindo projetos abertos para a comunidade
 
